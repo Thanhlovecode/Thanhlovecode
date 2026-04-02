@@ -1,122 +1,284 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Ha%20Chi%20Thanh&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20Enthusiast%20%7C%20System%20Architect&descAlignY=60&descSize=18&descColor=8b949e"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED WAVE HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1a1a2e,100:0f3460&height=230&section=header&text=Ha%20Chi%20Thanh&fontSize=68&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Distributed%20Architecture&descAlignY=58&descSize=18&descColor=8b949e"/>
 
-<!-- Typing Animation - no emoji in URL params -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=Java+Spring+Boot+Developer;Microservices+%26+System+Design;Database+Architect+%7C+SQL+%26+NoSQL;DevOps+%26+Cloud+Enthusiast+%28AWS%29;Building+Scalable+Backend+Solutions" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=Spring+Boot+%2B+Spring+AI+%E2%86%92+Production+AI+Systems;RAG+Pipeline+%7C+Vector+Search+%7C+LLM+Integration;Event-Driven+Architecture+with+Redis+Streams;Building+Scalable+%26+Resilient+Backend+Solutions;Microservices+%7C+Docker+%7C+Grafana+%7C+Kafka" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- SOCIAL BADGES -->
 <a href="https://www.facebook.com/ha.chithanh.7359">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-&nbsp;
+</a>&nbsp;
 <a href="mailto:hachithanh2005bh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
 <a href="https://github.com/Thanhlovecode">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=Thanhlovecode&label=Profile+Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-&nbsp;
+[![](https://visitcount.itsvg.in/api?id=Thanhlovecode&label=Profile+Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Thanhlovecode?style=social)
 
 </div>
 
 ---
 
-## 🧑‍💻 Về Tôi (About Me)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Về Tôi (About Me)
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```yaml
 name: Ha Chi Thanh
-location: Vietnam
-role: Backend Developer
+location: Vietnam 🇻🇳
+role: Backend Engineer
 
-focus:
-  - Java Spring Boot Microservices
-  - Distributed Systems Architecture
-  - Database Design (SQL & NoSQL)
-  - Cloud Infrastructure (AWS)
+expertise:
+  - "AI-powered Backend Systems (RAG, LLM)"
+  - "Event-Driven Architecture (Redis Streams, Kafka)"
+  - "Distributed Systems & Microservices"
+  - "Database Design (SQL + Vector DB)"
+  - "Security Engineering (JWT RS256, OAuth2)"
+
+current_project:
+  name: "AI Chatbot System"
+  stack: "Spring Boot 3.5 + Spring AI + Gemini + Qdrant"
+  highlights:
+    - "RAG Pipeline with Cohere Reranking"
+    - "Real-time SSE Streaming"
+    - "Hybrid Token Auth (RS256)"
+    - "Redis Streams Event Processing"
 
 currently_learning:
-  - Advanced Kafka Streaming
-  - Kubernetes & Service Mesh
-  - System Design Patterns
-  - Observability (Grafana + Loki)
+  - "Apache Kafka & Stream Processing"
+  - "Observability (Prometheus + Grafana + Loki)"
+  - "Advanced System Design Patterns"
+  - "Domain-Driven Design & CQRS"
 
-fun_fact: "Code is poetry, bugs are just plot twists"
+motto: "Architecture first, code second."
 ```
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### ⚙️ Backend & Frameworks
-
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### 🚀 DevOps, Cloud & Tools
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://github.com/Thanhlovecode/chatbot-ai-backend">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thanhlovecode&repo=chatbot-ai-backend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Thanhlovecode/chatbot-ai-frontend">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Thanhlovecode&repo=chatbot-ai-frontend&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false" />
+</a>
 
 </div>
 
+<br/>
 
+<details>
+<summary><b>🏗️ AI Chatbot Architecture (Click to expand)</b></summary>
+<br/>
 
-## 🎯 What I'm Working On
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    🤖 AI CHATBOT SYSTEM                         │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  ┌──────────────┐        ┌──────────────────────────────────┐  │
+│  │   Frontend    │  SSE   │      Spring Boot Backend         │  │
+│  │  Vite + TS    │◄──────►│      (Spring AI 1.1)             │  │
+│  │  OAuth2 Login │        │                                  │  │
+│  └──────────────┘        │  ┌────────┐ ┌────────┐ ┌──────┐ │  │
+│                          │  │  Auth  │ │  Chat  │ │ Admin│ │  │
+│                          │  │ Google │ │  RAG   │ │ RBAC │ │  │
+│                          │  │ OAuth2 │ │  SSE   │ │      │ │  │
+│                          │  └───┬────┘ └───┬────┘ └──┬───┘ │  │
+│                          │      │          │         │      │  │
+│                          │  ┌───▼──────────▼─────────▼───┐  │  │
+│                          │  │      Service Layer          │  │  │
+│                          │  │  RAG · LLM · Rerank · Rate  │  │  │
+│                          │  │  Limit · Session · Circuit   │  │  │
+│                          │  │  Breaker · Token Counter     │  │  │
+│                          │  └──┬──────┬──────┬──────┬────┘  │  │
+│                          └─────┼──────┼──────┼──────┼────────┘  │
+│                                │      │      │      │           │
+│  ┌─────────┐  ┌──────────┐  ┌─▼──┐ ┌─▼──┐ ┌─▼──┐ ┌▼───────┐  │
+│  │Flyway   │  │Resilience│  │ PG │ │Redis│ │Qdr-│ │ Gemini │  │
+│  │Migration│  │   4j     │  │ DB │ │Strm│ │ant │ │  LLM   │  │
+│  └─────────┘  └──────────┘  └────┘ └────┘ └────┘ └────────┘  │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-| 🔨 Current Projects | 📚 Currently Learning |
-|---|---|
-| Microservices with Spring Cloud | Kubernetes & Container Orchestration |
-| JWT + OAuth2 Authentication | Service Mesh (Istio) |
-| Real-time Dashboard (Kafka + WebSocket) | Advanced System Design Patterns |
-| Graph DB use cases with Neo4j | Observability (Grafana + Loki) |
+</details>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+### 💻 Core Languages
+
+![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### ⚙️ Backend Frameworks & AI
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI_1.1-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🧠 AI & Machine Learning
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_Rerank-39594D?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-FF6F00?style=for-the-badge&logoColor=white)
+
+### 🗄️ Databases & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### 🔐 Security & Auth
+
+![JWT](https://img.shields.io/badge/JWT_RS256-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Google Auth](https://img.shields.io/badge/Google_OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🚀 DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 📡 Event-Driven & Messaging
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis Streams](https://img.shields.io/badge/Redis_Streams-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📊 Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-000000?style=for-the-badge&logoColor=white)
+
+### 🧰 Tools & Utilities
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thanhlovecode&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thanhlovecode&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanhlovecode&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ACTIVITY GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thanhlovecode&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ROADMAP -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 Roadmap
+
+<div align="center">
+
+| ✅ Đã Thành Thạo | 🔄 Đang Phát Triển | 🎯 Mục Tiêu Tiếp Theo |
+|:---:|:---:|:---:|
+| Spring Boot 3.x | Apache Kafka | gRPC & Protocol Buffers |
+| Spring AI + RAG | Prometheus + Grafana | Event Sourcing + CQRS |
+| JWT RS256 + OAuth2 | GitHub Actions CI/CD | Load Testing (k6/Gatling) |
+| Redis Streams | Advanced System Design | Domain-Driven Design |
+| Docker Compose | Elasticsearch | Distributed Tracing |
+| PostgreSQL + Flyway | Grafana Loki | OpenTelemetry |
+| Resilience4j | Kafka Streams | CQRS + Saga Pattern |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHY -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thanhlovecode&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## ✍️ Dev Quote
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -124,11 +286,26 @@ fun_fact: "Code is poetry, bugs are just plot twists"
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
-
-**"First, solve the problem. Then, write the code."**
-
-Made with ❤️ by **Ha Chi Thanh** · 🇻🇳 Vietnam
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thanhlovecode/Thanhlovecode/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thanhlovecode/Thanhlovecode/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Thanhlovecode/Thanhlovecode/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+
+> *"Architecture first, code second. Scale always."*
+
+**Made with ❤️ by Ha Chi Thanh** · 🇻🇳 Vietnam
+
+<img src="https://img.shields.io/badge/Spring_Boot-Production_Ready-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/System-Distributed-58a6ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Architecture-Event_Driven-1f6feb?style=flat-square" />
+
+</div>
